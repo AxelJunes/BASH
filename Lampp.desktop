@@ -2,7 +2,7 @@
 Version=1.0
 Name=XAMPP start/ stop
 Comment=Start/stop XAMPP
-Exec=/home/axjunes/./.start_lampp.sh
+Exec=/home/user/./.start_lampp.sh
 Icon=/usr/share/icons/xampp.png
 Terminal=true
 Type=Application
