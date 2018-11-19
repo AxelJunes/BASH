@@ -2,11 +2,12 @@
 
 Bash scripts and Linux commands
 
-### Updating
+### Useful programs
 
 * **`apt-get`:** Application that allows us to download and install programs.
     - **`update`**: Update the list of all the programs that we can install.
     - **`install <program>`**: Install a new program.
+* **`terminator`:** Terminal program that allows us to split screens.
 
 ### Useful Linux Commands
 
