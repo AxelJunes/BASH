@@ -3,7 +3,7 @@
 ### Useful Linux Commands
 
 |    Command    |      Use      |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | adduser       | Add a new user |
 | arch       | Print machine architecture |
 | awk       | Find and Replace text within file(s) |
