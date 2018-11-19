@@ -4,7 +4,7 @@ Bash scripts and Linux commands
 
 ### Updating
 
-* **`apt-get:** Application that allows us to download and install programs.
+* **`apt-get`:** Application that allows us to download and install programs.
     - **`update`**: Update the list of all the programs that we can install.
     - **`install <program>`**: Install a new program.
 
@@ -33,7 +33,7 @@ Bash scripts and Linux commands
 |crontab	|Schedule a command to run at a later time|
 |csplit	|Split a file into context-determined pieces|
 |cut	|Divide a file into several parts|
-date	|Display or change the date & time|
+|date	|Display or change the date & time|
 |dc	|Desk Calculator|
 |dd	|Data Dump - Convert and copy a file|
 |df	|Display free disk space|
