@@ -6,7 +6,7 @@ Bash scripts and Linux commands
 
 * **apt-get:** Application that allows us to download and install programs.
     - **update**: Update the list of all the programs that we can install.
-    - **install <program>**: Install a new program.
+    - **install `<program>`**: Install a new program.
 
 ### Useful Linux Commands
 
